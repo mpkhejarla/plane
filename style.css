@@ -277,3 +277,6 @@ a {
 
     left: 80%;
 }
+
+
+.demo {display: flex; flex-wrap: wrap;}
